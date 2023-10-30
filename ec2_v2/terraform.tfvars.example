@@ -1,0 +1,23 @@
+# access key for AWS
+aws_access_key = "ffFFggGGhhHHjjJJkkKK"
+
+# secret key for AWS
+aws_secret_key = "aaAAbbBBccCCddDDeeEE"
+
+# key pairs
+ssh_key_name = "ec2-test-ssh-key"
+
+# instance type/sizes/architecture
+instance_type = "t2.micro"
+
+# ec2 image id
+# aws linux
+# ami_id = "ami-08a52ddb321b32a8c"
+# ubuntu
+ami_id = "ami-0fc5d935ebf8bc3bc"
+
+vpc_id = "vpc-1234567890"
+
+security_group_id = "sg-1234567890"
+
+#default_use= "ec2-user"
